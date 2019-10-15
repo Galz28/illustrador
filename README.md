@@ -1,2 +1,2 @@
-# illustrador.com
+# illustrador
 Graphic Arts and Designs
